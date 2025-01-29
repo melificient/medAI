@@ -1,4 +1,4 @@
-Description: Files for the manuscript "Managing Failure: How Should We Govern Problems Arising
+## Description: Files for the manuscript "Managing Failure: How Should We Govern Problems Arising
 from AI/ML Medical Devices?" (Babic, Cohen, Li, Ouellet, and Stern, 2025).
 
 Created: January 29, 2025
