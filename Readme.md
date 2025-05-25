@@ -1,5 +1,5 @@
 ## Description
-Files for the manuscript "A general framework for governing marketed AI/ML medical devices" (Babic, Cohen, Li, Ouellet, and Stern, 2025).  
+Files for the manuscript "A general framework for governing marketed AI/ML medical devices" (Babic, Cohen, Stern, Li, and Ouellet 2025).  
   
 Created: January 29, 2025  
 Authors: Melissa Ouellet and Ariel D. Stern  
