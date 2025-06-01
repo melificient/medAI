@@ -1,6 +1,5 @@
 ## Description
-Files for the manuscript "A general framework for governing marketed AI/ML medical devices" (Babic, Cohen, Stern, Li, and Ouellet 2025).  
-
+Files for the manuscript:
 B. Babic, I. G. Cohen, A. D. Stern, Y. Li, and M. Ouellet, "A general framework for governing marketed AI/ML medical devices," npj Digital Medicine, vol. 8, no. 328, May 2025, doi: 10.1038/s41746-025-01717-9.
 
 Created: January 29, 2025  
