@@ -1,6 +1,6 @@
 ## Description
 Files for the manuscript:
-B. Babic, I. G. Cohen, A. D. Stern, Y. Li, and M. Ouellet, "A general framework for governing marketed AI/ML medical devices," npj Digital Medicine, vol. 8, no. 328, May 2025, https://doi.org/10.1038/s41746-025-01717-9.
+B. Babic, I. G. Cohen, Y. Li, M. Ouellet, and A. D. Stern. "A general framework for governing marketed AI/ML medical devices," npj Digital Medicine, vol. 8, no. 328, May 2025, https://doi.org/10.1038/s41746-025-01717-9.
 
 Created: January 29, 2025  
 Authors: Melissa Ouellet and Ariel D. Stern  
